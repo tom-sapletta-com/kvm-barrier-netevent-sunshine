@@ -7,6 +7,9 @@ solutions for linux fedora wayland kvm: barrier netevent sunshine
 + [Download Synergy 3](https://symless.com/synergy/download)
  
 + [debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier)
++ [How to get Synergy for FREE (Windows and Mac M1+) - YouTube](https://www.youtube.com/watch?v=F25-d3BHuqE)
+
+
 + [LizardByte/Sunshine: Self-hosted game stream host for Moonlight.](https://github.com/LizardByte/Sunshine)
 + [Linux - Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/building/linux.html)
 
